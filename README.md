@@ -19,16 +19,16 @@ This project focuses on analyzing e-commerce sales and order data using Power BI
 - Used interactive visualizations to support business performance monitoring.
 
 ## Key Areas of Analysis
-### Sales Analysis
+### 1. Sales Analysis
 Analyzed sales performance and trends to understand changes in business performance over time.
 
-### Order Analysis
+### 2. Order Analysis
 Analyzed order volumes and trends to identify patterns in customer purchasing activity.
 
-### KPI Analysis
+### 3. KPI Analysis
 Created DAX measures to calculate and track important business performance indicators.
 
-### Dashboard
+### 4. Dashboard
 Developed an interactive Power BI dashboard to present sales, orders, and KPIs in an easy-to-understand format.
 
 ## Project Files
