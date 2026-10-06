@@ -32,7 +32,7 @@ Created DAX measures to calculate and track important business performance indic
 Developed an interactive Power BI dashboard to present sales, orders, and KPIs in an easy-to-understand format.
 
 ## Project Files
-Dataset : case-study-orders-dataset-power-bi-1715772996
+Dataset : [case-study-orders-dataset-power-bi-1715772996]
 
 
 ## Key Insights
